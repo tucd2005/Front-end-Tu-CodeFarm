@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "key": "1",
+      "ten_san_pham": "Toyota Vios 2023",
+      "gia": 550000000,
+      "gia_khuyen_mai": 520000000,
+      "so_luong": 5,
+      "so_luong_da_ban": 2,
+      "hinh_anh": "https://via.placeholder.com/80?text=Vios",
+      "mo_ta": "Sedan phân khúc B, phù hợp đi phố, tiết kiệm nhiên liệu.",
+      "danh_muc_id": 1,
+      "tags": ["phổ biến", "bán chạy"]
+    },
+    {
+      "key": "2",
+      "ten_san_pham": "Hyundai Tucson 2024",
+      "gia": 850000000,
+      "gia_khuyen_mai": 820000000,
+      "so_luong": 3,
+      "so_luong_da_ban": 1,
+      "hinh_anh": "https://via.placeholder.com/80?text=Tucson",
+      "mo_ta": "SUV cỡ trung, thiết kế hiện đại, công nghệ an toàn cao.",
+      "danh_muc_id": 2,
+      "tags": ["SUV", "mới"]
+    },
+    {
+      "key": "3",
+      "ten_san_pham": "Kia Morning 2022",
+      "gia": 340000000,
+      "gia_khuyen_mai": 320000000,
+      "so_luong": 7,
+      "so_luong_da_ban": 5,
+      "hinh_anh": "https://via.placeholder.com/80?text=Morning",
+      "mo_ta": "Hatchback nhỏ gọn, tiết kiệm nhiên liệu, phù hợp đô thị.",
+      "danh_muc_id": 3,
+      "tags": ["giá rẻ", "đô thị"]
+    },
+    {
+      "key": "4",
+      "ten_san_pham": "VinFast Lux A2.0",
+      "gia": 1050000000,
+      "gia_khuyen_mai": 990000000,
+      "so_luong": 2,
+      "so_luong_da_ban": 1,
+      "hinh_anh": "https://via.placeholder.com/80?text=LuxA2.0",
+      "mo_ta": "Xe sedan cao cấp thương hiệu Việt, mạnh mẽ và sang trọng.",
+      "danh_muc_id": 4,
+      "tags": ["cao cấp", "Việt Nam"]
+    }
+  ]
+}
